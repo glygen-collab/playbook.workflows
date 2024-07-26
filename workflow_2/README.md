@@ -26,11 +26,11 @@ DOI: [10.1016/j.bbcan.2021.188503](https://doi.org/10.1016/j.bbcan.2021.188503)
 1) FDA approved drugs are extracted from the scored list for that particular tissue.
 1) Based on the gene input, GlyGEN is searched to assess protein products. 
 1) GlyGEN is then searched to assess glycosylation sites and lists the known glycans.
-1) ` `Out of the list of glycans, some are chosen for further analysis by searching GlyGEN for glycan information based on associated GlyToucan ID’s.
-1) ` `Using GlyGEN, information regarding the construction of each glycan (glyco-enzymes) is extracted and a list of enzymes is generated.
-1) ` `Some of those enzymes are chosen for further analysis, and their corresponding genes are inputted.
+1) Out of the list of glycans, some are chosen for further analysis by searching GlyGEN for glycan information based on associated GlyToucan ID’s.
+1) Using GlyGEN, information regarding the construction of each glycan (glyco-enzymes) is extracted and a list of enzymes is generated.
+1) Some of those enzymes are chosen for further analysis, and their corresponding genes are inputted.
 1) Pubmed is then searched according to Drug-gene co-mentions using AutoRif.
-1) ` `FDA approved drugs are then extracted from the drug lists and compared to the tissue specific drug list generated earlier to see if there are any matches via Excel.
+1) FDA approved drugs are then extracted from the drug lists and compared to the tissue specific drug list generated earlier to see if there are any matches via Excel.
 
 **Input:** A gene which encodes a biomarker of interest.
 
