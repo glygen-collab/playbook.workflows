@@ -33,8 +33,8 @@ DOI: [10.1016/j.chembiol.2020.12.005](https://doi.org/10.1016%2Fj.chembiol.2020.
 1) Get glycoenzyme data for glycans of interest.
 1) ENRICHR analysis of glycoenzymes data and extract enriched pathways.
 1) Upload a literature based gene list from a published study.
-1) ` `ENRICHR analysis of published gene list.
-1) ` `Compare enriched pathways between the different arms of the workflow.
+1) ENRICHR analysis of published gene list.
+1) Compare enriched pathways between the different arms of the workflow.
 
 **Input:** RNA Seq counts, metadata, and a gene list from the literature to compare with.
 
