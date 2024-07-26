@@ -8,7 +8,7 @@ Create a simple and highly adaptable workflow to target the glycosylation enzyme
 
 ## Schematic of Workflow 3
 
-### Schematic in Words:
+### Description of steps:
 1. Input gene list representative of all known CDGs.
 2. Enrichr analysis to see scored phenotypes and enriched glycans.
 3. AutoRif analysis to elucidate drugs specific to the phenotype of interest (CDG).
